@@ -1,0 +1,2162 @@
+[
+  {
+    "instance": 0,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2624.412283450304,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -6.0827492905424,
+    "gap_WNH_percent": -6.342186972975872
+  },
+  {
+    "instance": 0,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 2767.1936046193937,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -0.9731751502951358,
+    "gap_WNH_percent": -1.246727556734617
+  },
+  {
+    "instance": 0,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 2739.9553244628905,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -1.9479245837147774,
+    "gap_WNH_percent": -2.2187843353752013
+  },
+  {
+    "instance": 0,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2619.6368210670375,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -6.25364404695361,
+    "gap_WNH_percent": -6.5126096484945055
+  },
+  {
+    "instance": 0,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 2765.5580219431686,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -1.031706132346899,
+    "gap_WNH_percent": -1.3050968523845907
+  },
+  {
+    "instance": 0,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 2739.5394337158205,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -1.9628076551767681,
+    "gap_WNH_percent": -2.2336262937345586
+  },
+  {
+    "instance": 0,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2677.1255155822055,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -4.196352907985856,
+    "gap_WNH_percent": -4.461001585225333
+  },
+  {
+    "instance": 0,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 2775.3191768806146,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -0.682393320006025,
+    "gap_WNH_percent": -0.9567489842450483
+  },
+  {
+    "instance": 0,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 2739.999387451172,
+    "LIR_mean": 2794.3878931988606,
+    "WNH_mean": 2802.1285129656544,
+    "gap_LIR_percent": -1.9463477450665456,
+    "gap_WNH_percent": -2.2172118525972784
+  },
+  {
+    "instance": 1,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 3571.566722248321,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -5.9038898942541,
+    "gap_WNH_percent": -6.166070383702927
+  },
+  {
+    "instance": 1,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 3774.4976567253834,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -0.5574934695514067,
+    "gap_WNH_percent": -0.8345706516460938
+  },
+  {
+    "instance": 1,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 3731.4147102050783,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -1.6925521131997079,
+    "gap_WNH_percent": -1.9664666753900106
+  },
+  {
+    "instance": 1,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 3562.8478863932255,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -6.1335953995452215,
+    "gap_WNH_percent": -6.395135859329293
+  },
+  {
+    "instance": 1,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 3769.2458814207766,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -0.6958561730211588,
+    "gap_WNH_percent": -0.9725478343830973
+  },
+  {
+    "instance": 1,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 3730.837919921875,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -1.7077481675413897,
+    "gap_WNH_percent": -1.9816203888850858
+  },
+  {
+    "instance": 1,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 3640.205223322982,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -4.095547377682296,
+    "gap_WNH_percent": -4.36276646145296
+  },
+  {
+    "instance": 1,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 3777.213170664518,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -0.4859508333691309,
+    "gap_WNH_percent": -0.7632273550895463
+  },
+  {
+    "instance": 1,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 3731.882490966797,
+    "LIR_mean": 3795.6582033354707,
+    "WNH_mean": 3806.263615787025,
+    "gap_LIR_percent": -1.6802280119066149,
+    "gap_WNH_percent": -1.9541769128055608
+  },
+  {
+    "instance": 2,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2734.274365150883,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -6.185583072888079,
+    "gap_WNH_percent": -6.549165376015842
+  },
+  {
+    "instance": 2,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 2891.0798943951095,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -0.8055014378900105,
+    "gap_WNH_percent": -1.1899345071999856
+  },
+  {
+    "instance": 2,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 2855.8134068603517,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -2.0155135008008918,
+    "gap_WNH_percent": -2.3952571099292053
+  },
+  {
+    "instance": 2,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2725.6037517967125,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -6.483076457820236,
+    "gap_WNH_percent": -6.845505810968644
+  },
+  {
+    "instance": 2,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 2883.334664743838,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -1.071244412684902,
+    "gap_WNH_percent": -1.4546475822632465
+  },
+  {
+    "instance": 2,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 2855.3994212646485,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -2.029717568165934,
+    "gap_WNH_percent": -2.4094061287452617
+  },
+  {
+    "instance": 2,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2785.5822632634818,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -4.425181627247687,
+    "gap_WNH_percent": -4.795586451188338
+  },
+  {
+    "instance": 2,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 2896.2456824043898,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -0.6282604864198849,
+    "gap_WNH_percent": -1.0133804615963027
+  },
+  {
+    "instance": 2,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 2855.327519165039,
+    "LIR_mean": 2914.5566904447614,
+    "WNH_mean": 2925.8961422364137,
+    "gap_LIR_percent": -2.0321845676875117,
+    "gap_WNH_percent": -2.4118635672910504
+  },
+  {
+    "instance": 3,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 3706.572770613349,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -6.186173154551899,
+    "gap_WNH_percent": -6.519729306723598
+  },
+  {
+    "instance": 3,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 3932.7912176510963,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -0.46055557383093415,
+    "gap_WNH_percent": -0.8144692258856501
+  },
+  {
+    "instance": 3,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 3883.11684375,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -1.7178202763508232,
+    "gap_WNH_percent": -2.067263709136846
+  },
+  {
+    "instance": 3,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 3687.0888967825667,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -6.679312471910315,
+    "gap_WNH_percent": -7.011115261505152
+  },
+  {
+    "instance": 3,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 3923.077598119109,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -0.7064085159453337,
+    "gap_WNH_percent": -1.0594480350057056
+  },
+  {
+    "instance": 3,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 3883.022655517578,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -1.7202041924571865,
+    "gap_WNH_percent": -2.069639149201785
+  },
+  {
+    "instance": 3,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 3779.44747111866,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -4.341705243703942,
+    "gap_WNH_percent": -4.681819422979261
+  },
+  {
+    "instance": 3,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 3931.08015652332,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -0.5038627479503344,
+    "gap_WNH_percent": -0.8576224208439176
+  },
+  {
+    "instance": 3,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 3882.1582348632815,
+    "LIR_mean": 3950.98771177907,
+    "WNH_mean": 3965.0856198044207,
+    "gap_LIR_percent": -1.7420827888324664,
+    "gap_WNH_percent": -2.091439955973251
+  },
+  {
+    "instance": 4,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2099.2670462063024,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -2.4168345984328488,
+    "gap_WNH_percent": -2.256336982553231
+  },
+  {
+    "instance": 4,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 2137.2892358461168,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -0.6493959930125026,
+    "gap_WNH_percent": -0.48599142406146045
+  },
+  {
+    "instance": 4,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 2131.1204621582033,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -0.9361477258138851,
+    "gap_WNH_percent": -0.7732147850302074
+  },
+  {
+    "instance": 4,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2099.679742193289,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -2.3976506738190517,
+    "gap_WNH_percent": -2.2371215056306903
+  },
+  {
+    "instance": 4,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 2139.948499078646,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -0.5257817418693911,
+    "gap_WNH_percent": -0.36217386128651885
+  },
+  {
+    "instance": 4,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 2131.145853149414,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -0.9349674408665742,
+    "gap_WNH_percent": -0.7720325588369992
+  },
+  {
+    "instance": 4,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2097.398826836002,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -2.5036776516536796,
+    "gap_WNH_percent": -2.3433228688430674
+  },
+  {
+    "instance": 4,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 2139.71622666492,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -0.5365787852506854,
+    "gap_WNH_percent": -0.3729886628509482
+  },
+  {
+    "instance": 4,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 2131.235210449219,
+    "LIR_mean": 2151.2594283732765,
+    "WNH_mean": 2147.7270049021936,
+    "gap_LIR_percent": -0.9308137205562117,
+    "gap_WNH_percent": -0.767872006792869
+  },
+  {
+    "instance": 5,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2770.111234658613,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -4.299469873778761,
+    "gap_WNH_percent": -4.057955093471666
+  },
+  {
+    "instance": 5,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 2866.608133654773,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -0.9657393455867913,
+    "gap_WNH_percent": -0.715811391443999
+  },
+  {
+    "instance": 5,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 2850.886873779297,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -1.508870208171298,
+    "gap_WNH_percent": -1.2603129270099656
+  },
+  {
+    "instance": 5,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2768.1266477890913,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -4.368032469070416,
+    "gap_WNH_percent": -4.126690716855396
+  },
+  {
+    "instance": 5,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 2871.540357718991,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -0.7953431348710516,
+    "gap_WNH_percent": -0.544985160086342
+  },
+  {
+    "instance": 5,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 2850.7691827392578,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -1.512936144145971,
+    "gap_WNH_percent": -1.2643891239898064
+  },
+  {
+    "instance": 5,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2768.5956699209178,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -4.351828907966027,
+    "gap_WNH_percent": -4.110446263610756
+  },
+  {
+    "instance": 5,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 2870.8834682797683,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -0.8180370493902078,
+    "gap_WNH_percent": -0.5677363461354834
+  },
+  {
+    "instance": 5,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 2850.659646606445,
+    "LIR_mean": 2894.5620583345367,
+    "WNH_mean": 2887.2755811671486,
+    "gap_LIR_percent": -1.516720348132794,
+    "gap_WNH_percent": -1.2681828779884552
+  },
+  {
+    "instance": 6,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2222.614639081474,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -1.9444173140980014,
+    "gap_WNH_percent": -1.7613038535338132
+  },
+  {
+    "instance": 6,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 2254.390539914916,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -0.5425528537431945,
+    "gap_WNH_percent": -0.35682148764476507
+  },
+  {
+    "instance": 6,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 2246.5536987304686,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -0.8882925133521402,
+    "gap_WNH_percent": -0.7032067972390643
+  },
+  {
+    "instance": 6,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2222.253157694782,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -1.960364868558817,
+    "gap_WNH_percent": -1.7772811891840767
+  },
+  {
+    "instance": 6,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 2256.3193353884035,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -0.45745975631228397,
+    "gap_WNH_percent": -0.27156948348856513
+  },
+  {
+    "instance": 6,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 2246.451941650391,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -0.8927817530088977,
+    "gap_WNH_percent": -0.7077044203063876
+  },
+  {
+    "instance": 6,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2221.163027720651,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -2.008458374260269,
+    "gap_WNH_percent": -1.8254645068882636
+  },
+  {
+    "instance": 6,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 2256.3156960323677,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -0.45762031458920216,
+    "gap_WNH_percent": -0.27173034159931886
+  },
+  {
+    "instance": 6,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 2246.5142541503906,
+    "LIR_mean": 2266.6885231829147,
+    "WNH_mean": 2262.463495818114,
+    "gap_LIR_percent": -0.8900326986345353,
+    "gap_WNH_percent": -0.7049502322227008
+  },
+  {
+    "instance": 7,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2918.8213227694405,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -3.5258322818494503,
+    "gap_WNH_percent": -3.2448026516377126
+  },
+  {
+    "instance": 7,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 3001.161984060685,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -0.804272484589319,
+    "gap_WNH_percent": -0.5153149399781731
+  },
+  {
+    "instance": 7,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 2982.01382409668,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -1.4371658999727033,
+    "gap_WNH_percent": -1.150051976371158
+  },
+  {
+    "instance": 7,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2916.174248020377,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -3.6133245621447485,
+    "gap_WNH_percent": -3.3325497972898077
+  },
+  {
+    "instance": 7,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 3003.0147300028193,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -0.7430347098183021,
+    "gap_WNH_percent": -0.4538987793282656
+  },
+  {
+    "instance": 7,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 2981.762385986328,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -1.445476543121571,
+    "gap_WNH_percent": -1.1583868284562149
+  },
+  {
+    "instance": 7,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2916.174382881656,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -3.613320104650364,
+    "gap_WNH_percent": -3.332545326810721
+  },
+  {
+    "instance": 7,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 3002.674807695997,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -0.75426997159459,
+    "gap_WNH_percent": -0.46516676946631863
+  },
+  {
+    "instance": 7,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 2981.70546875,
+    "LIR_mean": 3025.4952095536933,
+    "WNH_mean": 3016.7075286512713,
+    "gap_LIR_percent": -1.447357796681259,
+    "gap_WNH_percent": -1.160273562114933
+  },
+  {
+    "instance": 8,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 1613.8747094090506,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.29863210537041107,
+    "gap_WNH_percent": -0.2987462051068257
+  },
+  {
+    "instance": 8,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 1617.114584584332,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.09848026898547912,
+    "gap_WNH_percent": -0.0985945977786562
+  },
+  {
+    "instance": 8,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 1617.5268580322265,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.07301098908285564,
+    "gap_WNH_percent": -0.07312534702345053
+  },
+  {
+    "instance": 8,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 1613.4439085335448,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.3252459659927598,
+    "gap_WNH_percent": -0.3253600352718711
+  },
+  {
+    "instance": 8,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 1617.2609885907164,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.08943577524834767,
+    "gap_WNH_percent": -0.08955011439217841
+  },
+  {
+    "instance": 8,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 1617.5395368652344,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.07222772072452699,
+    "gap_WNH_percent": -0.07234207956150485
+  },
+  {
+    "instance": 8,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 1614.507677874403,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.2595288085271874,
+    "gap_WNH_percent": -0.2596429530139943
+  },
+  {
+    "instance": 8,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 1617.2223256233888,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.0918242820555748,
+    "gap_WNH_percent": -0.09193861846595874
+  },
+  {
+    "instance": 8,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 1617.5064528808593,
+    "LIR_mean": 1618.7086932595455,
+    "WNH_mean": 1618.7105457361013,
+    "gap_LIR_percent": -0.07427157114139327,
+    "gap_WNH_percent": -0.07438592763935326
+  },
+  {
+    "instance": 9,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2092.0082634692094,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -1.6436803199331496,
+    "gap_WNH_percent": -1.6437771194597106
+  },
+  {
+    "instance": 9,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 2119.163920390141,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -0.3669499552030886,
+    "gap_WNH_percent": -0.36704801125180264
+  },
+  {
+    "instance": 9,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 2117.2994466552736,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -0.4546086790733206,
+    "gap_WNH_percent": -0.45470664885078893
+  },
+  {
+    "instance": 9,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2092.2877113062113,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -1.6305420062515008,
+    "gap_WNH_percent": -1.6306388187084186
+  },
+  {
+    "instance": 9,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 2120.1929671455027,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -0.3185690508809125,
+    "gap_WNH_percent": -0.3186671545447606
+  },
+  {
+    "instance": 9,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 2117.2647579345703,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -0.4562395784164841,
+    "gap_WNH_percent": -0.4563375465888697
+  },
+  {
+    "instance": 9,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2099.0718692651453,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -1.3115830324172184,
+    "gap_WNH_percent": -1.3116801587846005
+  },
+  {
+    "instance": 9,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 2120.885666639977,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -0.28600160164543587,
+    "gap_WNH_percent": -0.28609973736124505
+  },
+  {
+    "instance": 9,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 2117.180000488281,
+    "LIR_mean": 2126.9688315647513,
+    "WNH_mean": 2126.9709248697795,
+    "gap_LIR_percent": -0.4602244720844695,
+    "gap_WNH_percent": -0.46032243633503667
+  },
+  {
+    "instance": 10,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 1781.211040091177,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.23755505334819293,
+    "gap_WNH_percent": -0.2367385870275518
+  },
+  {
+    "instance": 10,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 1784.2725573616963,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.06608494605659931,
+    "gap_WNH_percent": -0.06526707640660545
+  },
+  {
+    "instance": 10,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 1784.3641739501952,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.060953664776275396,
+    "gap_WNH_percent": -0.060135753131340675
+  },
+  {
+    "instance": 10,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 1781.190312898405,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.23871594634811144,
+    "gap_WNH_percent": -0.23789948952834816
+  },
+  {
+    "instance": 10,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 1784.221167297996,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.06896321162159769,
+    "gap_WNH_percent": -0.06814536552763872
+  },
+  {
+    "instance": 10,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 1784.4194392089844,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.05785835646450188,
+    "gap_WNH_percent": -0.05704041948724203
+  },
+  {
+    "instance": 10,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 1781.6508093784041,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.2129243620270893,
+    "gap_WNH_percent": -0.2121076941262956
+  },
+  {
+    "instance": 10,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 1784.4318971971804,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.05716060682474655,
+    "gap_WNH_percent": -0.05634266413702127
+  },
+  {
+    "instance": 10,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 1784.5616470947266,
+    "LIR_mean": 1785.4524726651232,
+    "WNH_mean": 1785.4378604542715,
+    "gap_LIR_percent": -0.049893547099966185,
+    "gap_WNH_percent": -0.04907554493785993
+  },
+  {
+    "instance": 11,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2290.9196167012683,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -1.0984609169167547,
+    "gap_WNH_percent": -1.095861630661854
+  },
+  {
+    "instance": 11,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 2312.035006241913,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -0.18688614638174839,
+    "gap_WNH_percent": -0.18426290252423483
+  },
+  {
+    "instance": 11,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 2312.2762662353516,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -0.17647068505508567,
+    "gap_WNH_percent": -0.17384716746303708
+  },
+  {
+    "instance": 11,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2290.607798768882,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -1.1119224426734409,
+    "gap_WNH_percent": -1.109323510208371
+  },
+  {
+    "instance": 11,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 2312.187164059894,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -0.18031732472947315,
+    "gap_WNH_percent": -0.17769390823310083
+  },
+  {
+    "instance": 11,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 2312.2179610595704,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -0.17898778411837846,
+    "gap_WNH_percent": -0.1763643326796127
+  },
+  {
+    "instance": 11,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2291.344603072441,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -1.0801137842230246,
+    "gap_WNH_percent": -1.077514015776937
+  },
+  {
+    "instance": 11,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 2312.9814421402375,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -0.14602745963194774,
+    "gap_WNH_percent": -0.14340314194459802
+  },
+  {
+    "instance": 11,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 2312.3057309570313,
+    "LIR_mean": 2316.3639696008754,
+    "WNH_mean": 2316.303093553353,
+    "gap_LIR_percent": -0.1751986603617972,
+    "gap_WNH_percent": -0.17257510933896825
+  },
+  {
+    "instance": 12,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 4539.516331084255,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -11.911822798452388,
+    "gap_WNH_percent": -13.194142676730502
+  },
+  {
+    "instance": 12,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 5109.965534762168,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -0.842398905431696,
+    "gap_WNH_percent": -2.285858936112206
+  },
+  {
+    "instance": 12,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 5037.194765869141,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -2.25449744585281,
+    "gap_WNH_percent": -3.6774012329374717
+  },
+  {
+    "instance": 12,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 4578.001097616551,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -11.16503554478756,
+    "gap_WNH_percent": -12.458226577068865
+  },
+  {
+    "instance": 12,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 5100.253959728437,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -1.0308495860955391,
+    "gap_WNH_percent": -2.471566296825889
+  },
+  {
+    "instance": 12,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 5036.920919677735,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -2.2598113625952987,
+    "gap_WNH_percent": -3.6826377937703714
+  },
+  {
+    "instance": 12,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 4550.414333207803,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -11.700349797324849,
+    "gap_WNH_percent": -12.985748136773111
+  },
+  {
+    "instance": 12,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 5093.287553427746,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -1.166030955192321,
+    "gap_WNH_percent": -2.604779799606527
+  },
+  {
+    "instance": 12,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 5036.810310791016,
+    "LIR_mean": 5153.377530673323,
+    "WNH_mean": 5229.504633747078,
+    "gap_LIR_percent": -2.261957700333228,
+    "gap_WNH_percent": -3.684752886775655
+  },
+  {
+    "instance": 13,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 7084.209979836557,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -11.781677096982278,
+    "gap_WNH_percent": -11.725963897629288
+  },
+  {
+    "instance": 13,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 7812.869231728564,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -2.7078216702458358,
+    "gap_WNH_percent": -2.6463779888381667
+  },
+  {
+    "instance": 13,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 7814.439108398437,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -2.6882722939039483,
+    "gap_WNH_percent": -2.626816266327525
+  },
+  {
+    "instance": 13,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 7116.073859143398,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -11.384882253007522,
+    "gap_WNH_percent": -11.328918462739656
+  },
+  {
+    "instance": 13,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 7785.325877857199,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -3.050813830638044,
+    "gap_WNH_percent": -2.9895867617206084
+  },
+  {
+    "instance": 13,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 7814.419051757813,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -2.68852205544462,
+    "gap_WNH_percent": -2.627066185602034
+  },
+  {
+    "instance": 13,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 7083.42532723022,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -11.791448227029178,
+    "gap_WNH_percent": -11.735741198513471
+  },
+  {
+    "instance": 13,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 7827.346184593221,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -2.527542922707149,
+    "gap_WNH_percent": -2.465985388468561
+  },
+  {
+    "instance": 13,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 7815.124713378907,
+    "LIR_mean": 8030.315864907725,
+    "WNH_mean": 8025.247618247628,
+    "gap_LIR_percent": -2.6797345851512278,
+    "gap_WNH_percent": -2.6182731656896108
+  },
+  {
+    "instance": 14,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 4671.936962343486,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -12.191940372716237,
+    "gap_WNH_percent": -13.747377064630072
+  },
+  {
+    "instance": 14,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 5284.874339076586,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -0.6719129926862855,
+    "gap_WNH_percent": -2.4314160693352904
+  },
+  {
+    "instance": 14,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 5211.048313232422,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -2.059457416256172,
+    "gap_WNH_percent": -3.794381456342466
+  },
+  {
+    "instance": 14,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 4706.810772352423,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -11.536494545134001,
+    "gap_WNH_percent": -13.103541839697641
+  },
+  {
+    "instance": 14,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 5279.703181551399,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -0.7691037964093539,
+    "gap_WNH_percent": -2.526885229932785
+  },
+  {
+    "instance": 14,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 5211.454726806641,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -2.051818959734608,
+    "gap_WNH_percent": -3.7868783078506274
+  },
+  {
+    "instance": 14,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 4688.558452617913,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -11.879543005013083,
+    "gap_WNH_percent": -13.440513520703979
+  },
+  {
+    "instance": 14,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 5284.544267960977,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -0.6781166089666946,
+    "gap_WNH_percent": -2.437509794423187
+  },
+  {
+    "instance": 14,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 5210.777489013672,
+    "LIR_mean": 5320.624305074405,
+    "WNH_mean": 5416.573784479831,
+    "gap_LIR_percent": -2.064547499735514,
+    "gap_WNH_percent": -3.7993813738092186
+  },
+  {
+    "instance": 15,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 7261.575117225605,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -11.98251279523187,
+    "gap_WNH_percent": -12.167674675916961
+  },
+  {
+    "instance": 15,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 8091.51336210731,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -1.922838734112653,
+    "gap_WNH_percent": -2.129163093157327
+  },
+  {
+    "instance": 15,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 8039.350824707031,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -2.5551003845232123,
+    "gap_WNH_percent": -2.7600946583769437
+  },
+  {
+    "instance": 15,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 7280.918728743309,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -11.748049052618414,
+    "gap_WNH_percent": -11.933704173327886
+  },
+  {
+    "instance": 15,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 8072.498492295975,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -2.153317801436405,
+    "gap_WNH_percent": -2.359157302995152
+  },
+  {
+    "instance": 15,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 8039.928408203125,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -2.5480995001205153,
+    "gap_WNH_percent": -2.7531085016944234
+  },
+  {
+    "instance": 15,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 7275.4841832999655,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -11.813921129447657,
+    "gap_WNH_percent": -11.999437675448654
+  },
+  {
+    "instance": 15,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 8009.205942303575,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -2.920486235168951,
+    "gap_WNH_percent": -3.124711848913997
+  },
+  {
+    "instance": 15,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 8039.453759765625,
+    "LIR_mean": 8250.1504505939,
+    "WNH_mean": 8267.542832814572,
+    "gap_LIR_percent": -2.553852709596427,
+    "gap_WNH_percent": -2.7588496081767055
+  },
+  {
+    "instance": 16,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 3761.805759877274,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -5.691963646781339,
+    "gap_WNH_percent": -3.1389664165531905
+  },
+  {
+    "instance": 16,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 3860.9255530221917,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -3.207041869337046,
+    "gap_WNH_percent": -0.5867757332927548
+  },
+  {
+    "instance": 16,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 3829.1833168945313,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -4.00281606655597,
+    "gap_WNH_percent": -1.4040922019865953
+  },
+  {
+    "instance": 16,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 3757.099262858323,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -5.809954983998599,
+    "gap_WNH_percent": -3.2601518777152894
+  },
+  {
+    "instance": 16,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 3854.4662008482915,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -3.3689770830399146,
+    "gap_WNH_percent": -0.7530946683416251
+  },
+  {
+    "instance": 16,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 3830.610393310547,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -3.9670394254662344,
+    "gap_WNH_percent": -1.3673470573722257
+  },
+  {
+    "instance": 16,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 3755.832647977644,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -5.841708872911921,
+    "gap_WNH_percent": -3.292765370895434
+  },
+  {
+    "instance": 16,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 3863.3709696496576,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -3.1457355566449907,
+    "gap_WNH_percent": -0.5238098075650566
+  },
+  {
+    "instance": 16,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 3831.1626174316407,
+    "LIR_mean": 3988.849630786408,
+    "WNH_mean": 3883.714245766785,
+    "gap_LIR_percent": -3.9531952304674656,
+    "gap_WNH_percent": -1.3531280884639063
+  },
+  {
+    "instance": 17,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 5876.946737363825,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -8.233843053014954,
+    "gap_WNH_percent": -4.33240402481323
+  },
+  {
+    "instance": 17,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 6108.3481856044955,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -4.620602612701196,
+    "gap_WNH_percent": -0.5655466330970027
+  },
+  {
+    "instance": 17,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 6058.231884277344,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -5.403148478558872,
+    "gap_WNH_percent": -1.3813624438231087
+  },
+  {
+    "instance": 17,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 5871.496586482444,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -8.318944964520437,
+    "gap_WNH_percent": -4.421124044889102
+  },
+  {
+    "instance": 17,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 6086.975276123349,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -4.954331988431482,
+    "gap_WNH_percent": -0.9134645163844102
+  },
+  {
+    "instance": 17,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 6055.031136230469,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -5.453126870527248,
+    "gap_WNH_percent": -1.4334656675974555
+  },
+  {
+    "instance": 17,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 5870.770580595059,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -8.330281254125149,
+    "gap_WNH_percent": -4.432942296953291
+  },
+  {
+    "instance": 17,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 6103.824817257544,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -4.691233188101229,
+    "gap_WNH_percent": -0.6391800680764059
+  },
+  {
+    "instance": 17,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 6055.033154296875,
+    "LIR_mean": 6404.263764427928,
+    "WNH_mean": 6143.090225543166,
+    "gap_LIR_percent": -5.453095359232895,
+    "gap_WNH_percent": -1.433432816600122
+  },
+  {
+    "instance": 18,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 3910.519284756976,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -5.472237912133792,
+    "gap_WNH_percent": -2.99236030535468
+  },
+  {
+    "instance": 18,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 4003.7638637058153,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -3.2182658094474625,
+    "gap_WNH_percent": -0.6792566330606653
+  },
+  {
+    "instance": 18,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 3975.8513305664064,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -3.8929867607432445,
+    "gap_WNH_percent": -1.3716784728677767
+  },
+  {
+    "instance": 18,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 3910.6629005609807,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -5.468766332130103,
+    "gap_WNH_percent": -2.988797650588171
+  },
+  {
+    "instance": 18,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 4009.6507074942274,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -3.075964971998957,
+    "gap_WNH_percent": -0.5332226208027646
+  },
+  {
+    "instance": 18,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 3976.784164550781,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -3.8704376560025566,
+    "gap_WNH_percent": -1.348537806255068
+  },
+  {
+    "instance": 18,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 3913.7750153537963,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -5.393538152621535,
+    "gap_WNH_percent": -2.9115959061327468
+  },
+  {
+    "instance": 18,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 4006.3721257565094,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -3.155217105007646,
+    "gap_WNH_percent": -0.6145538846995424
+  },
+  {
+    "instance": 18,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 3976.4242265625,
+    "LIR_mean": 4136.90031201843,
+    "WNH_mean": 4031.1456881811246,
+    "gap_LIR_percent": -3.8791383246465583,
+    "gap_WNH_percent": -1.3574667315811029
+  },
+  {
+    "instance": 19,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 6054.859275693214,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -7.930018302655606,
+    "gap_WNH_percent": -4.097895990848488
+  },
+  {
+    "instance": 19,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 6268.134822006801,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -4.686957687785254,
+    "gap_WNH_percent": -0.7198532166285188
+  },
+  {
+    "instance": 19,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 6225.45242553711,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -5.335984739089161,
+    "gap_WNH_percent": -1.3958939698840989
+  },
+  {
+    "instance": 19,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 6053.201902743878,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -7.955220258665319,
+    "gap_WNH_percent": -4.124146898711412
+  },
+  {
+    "instance": 19,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 6264.104546507771,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -4.748241918274399,
+    "gap_WNH_percent": -0.7836882097298603
+  },
+  {
+    "instance": 19,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 6225.220503662109,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -5.339511335136116,
+    "gap_WNH_percent": -1.399567349357611
+  },
+  {
+    "instance": 19,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 6060.58470177107,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -7.842957670823269,
+    "gap_WNH_percent": -4.007211735077343
+  },
+  {
+    "instance": 19,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 6268.598286671974,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -4.679910260042197,
+    "gap_WNH_percent": -0.7125124619552614
+  },
+  {
+    "instance": 19,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 6225.115080810547,
+    "LIR_mean": 6576.366329252628,
+    "WNH_mean": 6313.583354871365,
+    "gap_LIR_percent": -5.341114391387613,
+    "gap_WNH_percent": -1.4012371277645208
+  },
+  {
+    "instance": 20,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 2998.0061181093324,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -1.1514034402857587,
+    "gap_WNH_percent": -1.138968602409396
+  },
+  {
+    "instance": 20,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 3027.085245236323,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -0.19262257312153697,
+    "gap_WNH_percent": -0.18006712367295563
+  },
+  {
+    "instance": 20,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 3014.841636230469,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -0.5963120651956255,
+    "gap_WNH_percent": -0.583807398596381
+  },
+  {
+    "instance": 20,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 2991.800025426285,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -1.3560272894944547,
+    "gap_WNH_percent": -1.3436181926450574
+  },
+  {
+    "instance": 20,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 3021.4017746051654,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -0.38001481761520406,
+    "gap_WNH_percent": -0.3674829415127423
+  },
+  {
+    "instance": 20,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 3014.6712321777345,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -0.60193053320311,
+    "gap_WNH_percent": -0.5894265733892068
+  },
+  {
+    "instance": 20,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 2994.356888093573,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -1.2717238303618372,
+    "gap_WNH_percent": -1.2593041284064244
+  },
+  {
+    "instance": 20,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 3025.563199044478,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -0.2428066368077686,
+    "gap_WNH_percent": -0.2302575003541918
+  },
+  {
+    "instance": 20,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 3014.488694091797,
+    "LIR_mean": 3032.9273479348217,
+    "WNH_mean": 3032.545863346514,
+    "gap_LIR_percent": -0.6079490778300389,
+    "gap_WNH_percent": -0.5954458751298408
+  },
+  {
+    "instance": 21,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 4762.681668766083,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -3.912553019834919,
+    "gap_WNH_percent": -3.8537637347972553
+  },
+  {
+    "instance": 21,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 4942.542202368647,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -0.28385375158461734,
+    "gap_WNH_percent": -0.2228443156084059
+  },
+  {
+    "instance": 21,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 4913.430504638672,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -0.8711843578849021,
+    "gap_WNH_percent": -0.8105342690191586
+  },
+  {
+    "instance": 21,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 4737.909297640627,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -4.412337398182187,
+    "gap_WNH_percent": -4.353853896753101
+  },
+  {
+    "instance": 21,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 4931.516481472537,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -0.5062984677559612,
+    "gap_WNH_percent": -0.44542513036738285
+  },
+  {
+    "instance": 21,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 4913.032891113281,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -0.8792062395046818,
+    "gap_WNH_percent": -0.8185610586753156
+  },
+  {
+    "instance": 21,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 4757.019692530397,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -4.026783799716194,
+    "gap_WNH_percent": -3.9680644046182656
+  },
+  {
+    "instance": 21,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 4942.234448045467,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -0.29006271730354083,
+    "gap_WNH_percent": -0.22905708016544013
+  },
+  {
+    "instance": 21,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 4913.335255126953,
+    "LIR_mean": 4956.611730717773,
+    "WNH_mean": 4953.580975992706,
+    "gap_LIR_percent": -0.8731060236697896,
+    "gap_WNH_percent": -0.8124571105388667
+  },
+  {
+    "instance": 22,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 3213.035375212031,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -1.3112261788665647,
+    "gap_WNH_percent": -1.1793380593909553
+  },
+  {
+    "instance": 22,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 3245.859024790913,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -0.30304377469349,
+    "gap_WNH_percent": -0.16980831573613075
+  },
+  {
+    "instance": 22,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 3231.4225349121093,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -0.7464623238360724,
+    "gap_WNH_percent": -0.6138194514143769
+  },
+  {
+    "instance": 22,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 3208.676254933225,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -1.4451170904242305,
+    "gap_WNH_percent": -1.3134079033626844
+  },
+  {
+    "instance": 22,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 3244.7457510492122,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -0.33723811358663536,
+    "gap_WNH_percent": -0.20404835209697492
+  },
+  {
+    "instance": 22,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 3231.311776855469,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -0.7498642710679571,
+    "gap_WNH_percent": -0.6172259450237805
+  },
+  {
+    "instance": 22,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 3215.7214033557216,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -1.228724496502609,
+    "gap_WNH_percent": -1.096726121409075
+  },
+  {
+    "instance": 22,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 3245.0141883311385,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -0.32899302969943145,
+    "gap_WNH_percent": -0.19579224944272777
+  },
+  {
+    "instance": 22,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 3232.123532714844,
+    "LIR_mean": 3255.725297626491,
+    "WNH_mean": 3251.3801386425207,
+    "gap_LIR_percent": -0.7249310907419981,
+    "gap_WNH_percent": -0.5922594438839357
+  },
+  {
+    "instance": 23,
+    "seed": 0,
+    "method": "mean_loss",
+    "mean_cost": 5025.2531234246435,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -3.709647286037343,
+    "gap_WNH_percent": -3.4616985169735326
+  },
+  {
+    "instance": 23,
+    "seed": 0,
+    "method": "exponential_loss",
+    "mean_cost": 5194.499482329771,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -0.4666680381735788,
+    "gap_WNH_percent": -0.21036856013484373
+  },
+  {
+    "instance": 23,
+    "seed": 0,
+    "method": "GDSH",
+    "mean_cost": 5161.320099853516,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -1.10242794180464,
+    "gap_WNH_percent": -0.8477655528520089
+  },
+  {
+    "instance": 23,
+    "seed": 1,
+    "method": "mean_loss",
+    "mean_cost": 5006.220581011093,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -4.07433542751654,
+    "gap_WNH_percent": -3.827325734624154
+  },
+  {
+    "instance": 23,
+    "seed": 1,
+    "method": "exponential_loss",
+    "mean_cost": 5189.932821342855,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -0.5541711721163245,
+    "gap_WNH_percent": -0.2980970156569396
+  },
+  {
+    "instance": 23,
+    "seed": 1,
+    "method": "GDSH",
+    "mean_cost": 5161.6847578125,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -1.0954406234292002,
+    "gap_WNH_percent": -0.8407602420511417
+  },
+  {
+    "instance": 23,
+    "seed": 2,
+    "method": "mean_loss",
+    "mean_cost": 5020.2659299550205,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -3.8052083665338188,
+    "gap_WNH_percent": -3.557505668354699
+  },
+  {
+    "instance": 23,
+    "seed": 2,
+    "method": "exponential_loss",
+    "mean_cost": 5194.661127946423,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -0.46357069898294023,
+    "gap_WNH_percent": -0.20726324526004758
+  },
+  {
+    "instance": 23,
+    "seed": 2,
+    "method": "GDSH",
+    "mean_cost": 5163.546710693359,
+    "LIR_mean": 5218.854206872121,
+    "WNH_mean": 5205.450112780565,
+    "gap_LIR_percent": -1.059763196793917,
+    "gap_WNH_percent": -0.8049909456306903
+  }
+]

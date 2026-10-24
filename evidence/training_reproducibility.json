@@ -1,0 +1,14 @@
+{
+  "instance": 0,
+  "seed": 0,
+  "epochs": 300,
+  "device": "cpu",
+  "torch_version": "2.11.0+cpu",
+  "independent_training": true,
+  "identical_parameters_between_repeats": true,
+  "max_cost_difference_between_repeats": 0.0,
+  "repeat1_mean_cost": 2739.9553244628905,
+  "repeat2_mean_cost": 2739.9553244628905,
+  "historical_mean_cost": 2739.9553244628905,
+  "repeat1_vs_historical_percent": 0.0
+}

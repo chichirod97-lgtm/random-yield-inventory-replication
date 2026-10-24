@@ -1,0 +1,16 @@
+{
+  "method": "teacher_scaled64_mean",
+  "instance": 0,
+  "seed": 0,
+  "epochs": 300,
+  "device": "cpu",
+  "torch_version": "2.11.0+cpu",
+  "identical_parameters_between_repeats": true,
+  "identical_state_to_historical": false,
+  "max_cost_difference_between_repeats": 0.0,
+  "max_cost_difference_to_historical": 1.8189894035458565e-12,
+  "repeat1_mean_cost": 2624.412283450304,
+  "repeat2_mean_cost": 2624.412283450304,
+  "historical_mean_cost": 2624.412283450304,
+  "repeat1_vs_historical_percent": 0.0
+}

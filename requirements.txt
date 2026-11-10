@@ -1,0 +1,4 @@
+# Compatible ranges, not a reconstruction of every historical environment.
+numpy>=2.1,<3
+scipy>=1.16,<2
+torch>=2.6,<3

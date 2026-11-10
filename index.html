@@ -24,10 +24,13 @@ vertical-align: middle;
 :root{--ink:#172e39;--muted:#536a76;--accent:#087e83;--line:#d9e5e8;--paper:#fff;--soft:#eff6f6}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f2f5f5;color:var(--ink);font:16px/1.9 system-ui,"Noto Sans CJK SC","Microsoft YaHei",sans-serif;max-width:none;padding:0}header#title-block-header{background:linear-gradient(130deg,#15323e,#13666b);color:white;padding:58px max(6vw,calc((100vw - 1160px)/2));margin:0}h1.title{font-size:clamp(25px,3vw,42px);line-height:1.4;max-width:980px;margin:0}#TOC{position:fixed;left:20px;top:20px;width:240px;max-height:94vh;overflow:auto;background:#fff;padding:20px;border-radius:12px;font-size:12px;box-shadow:0 3px 20px #1232;z-index:2}#TOC>h2{font-size:15px}#TOC ul{padding-left:16px}body>section{max-width:1000px;margin:0 auto;padding:28px 42px;background:white;border-bottom:1px solid var(--line)}body>section:first-of-type{padding-top:36px}h2{font-size:26px;margin:12px 0 24px;color:#0b6066}h3{font-size:20px;margin-top:32px}p{overflow-wrap:anywhere}a{color:var(--accent);text-underline-offset:3px}blockquote{margin:20px 0;padding:16px 22px;background:var(--soft);border-left:4px solid var(--accent);color:var(--muted)}table{border-collapse:collapse;width:100%;margin:22px 0;font-size:14px;display:block;overflow:auto}th,td{border-bottom:1px solid var(--line);padding:12px 15px;text-align:left}th{background:#eaf3f3;font-weight:650}tr:nth-child(even){background:#fafcfc}img{max-width:100%;height:auto;border:1px solid #e6ecee;border-radius:8px}figure{margin:28px 0}figcaption{color:var(--muted);font-size:13px}code{background:#edf3f5;padding:2px 5px;border-radius:3px;font-size:.87em}pre{overflow:auto;background:#edf3f5;padding:20px}math[display="block"]{padding:18px 0;overflow:auto;max-width:100%}#title-block-header .subtitle{opacity:.85}.sourceCode{overflow:auto} @media(min-width:1500px){body>section{margin-left:290px;max-width:1110px}header#title-block-header{padding-left:320px}}@media(max-width:1499px){#TOC{position:relative;left:auto;top:auto;width:auto;max-width:1000px;margin:24px auto;max-height:350px}}@media(max-width:650px){header#title-block-header{padding:32px 20px}body>section{padding:24px 20px}#TOC{margin:12px}h2{font-size:23px}table{font-size:12px}th,td{padding:9px}}@media print{#TOC{display:none}body{background:white;font-size:11pt}body>section{margin:0;max-width:none;padding:12px 0;break-inside:auto}header#title-block-header{background:white;color:#15323e;padding:15px 0}a{color:inherit}img{max-height:21cm;object-fit:contain}h2,h3{break-after:avoid}}
 </style>
+<style>p:has(math){max-width:100%;overflow-x:auto}math[display="block"]{display:block;width:100%;overflow-x:auto}header a:focus{outline:2px solid white}</style>
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">随机交付库存问题：部分复现与损失函数扩展</h1>
+<p>RICHINA ORTANCIA DOMINIQUE（杜米妮）</p>
+<p><a style="color:white" href="report_en.html" lang="en">English report</a> · <a style="color:white" href="AI_USAGE.md">AI 使用记录</a> · <a style="color:white" href="REPRODUCING.md">安装与复跑说明</a></p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
@@ -498,6 +501,7 @@ GDSH
 </section>
 <section id="复现核查" class="level2">
 <h2>5. 复现核查</h2>
+<p><strong>提交整理补充：</strong>公开 verify_summary.py 仅核查汇总算术、记录覆盖和保存的验证回执，不重训模型。本次未运行昂贵训练。公开包缺少历史配置编号映射与原始平均损失训练入口；新增 run_grid.py 使用新编号和明确标注的重建入口，不能声称恢复历史模型。历史快照审计为下文记录内容，本次未重新验证全部本地快照。</p>
 <p>7项 NumPy 基础检查、6项 PyTorch 检查及12组 NumPy/PyTorch
 初始模型逐轨迹成本比较均通过。小规模有限动作动态规划与穷举期望一致，但没有完成当前已训练网络对连续动作最优解的比较。</p>
 <p>最终快照包含360个模型：216个初始网络变体模型、72个
